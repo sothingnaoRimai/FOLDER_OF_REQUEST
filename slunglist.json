@@ -1,0 +1,12 @@
+{
+    "id": "4288",
+    "parent_exercise_id": null,
+    "name": "Selection Process",
+    "slug": "manthan__selection_md",
+    "sequence_num": 100,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"selection_key1\\\\nselection_key2\\\\n\\\\n\\\\n1. selection_key3\\\\n2. selection_key4\\\\n3. selection_key5\\\\nselection_key6\\\\n* selection_key7\\\\n* selection_key8\\\\n\\\"}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/manthan/selection.md"
+}

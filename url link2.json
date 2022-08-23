@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "4287",
+            "parent_exercise_id": null,
+            "name": "What is Manthan",
+            "slug": "manthan__introduction_md",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/manthan/introduction.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4288",
+            "parent_exercise_id": null,
+            "name": "Selection Process",
+            "slug": "manthan__selection_md",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/manthan/selection.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4289",
+            "parent_exercise_id": null,
+            "name": "Vipassana Guidelines",
+            "slug": "manthan__vipassana_md",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/manthan/vipassana.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
